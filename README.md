@@ -4,4 +4,4 @@ We have sales data of a bike company and need to establish a dashboard to figure
 ## Final Result:
 ![Bike Sales Dashboard](https://github.com/HazemMancy/ExcelBikeSalesDashboard/blob/main/BikeSales.png)
 
-Access the final dashboard [here](https://1drv.ms/x/s!AufGAHMfvBe8gTQBYDZH72a8hssW?e=VFLqhH).
+Access full interactive dashboard [here](https://1drv.ms/x/s!AufGAHMfvBe8gTQBYDZH72a8hssW?e=VFLqhH).
